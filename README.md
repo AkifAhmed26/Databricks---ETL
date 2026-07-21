@@ -1,5 +1,6 @@
 # Databricks---ETL
-Transformations and Analysis of TV Shows and Movies on Amazon Prime
+Transformations and Analysis of TV Shows and Movies on Amazon Prime.
+
 In this project, we are fetching a dataset from the Kaggle website which has a
 dataset on Amazon Prime’s TV Shows and Movies.
 Link to the dataset: https://www.kaggle.com/datasets/shivamb/amazon-primemovies-
